@@ -7,7 +7,7 @@
 
 
 <h2> 🤳 Certifications:</h2>
-
+- <a href="https://www.credly.com/badges/3cdf76be-5004-4c2d-8acb-3ffbe42dbb87/print">Google Coursera IT Support</a>
 
 <h2> 🤳 Connect with me:</h2>
 
