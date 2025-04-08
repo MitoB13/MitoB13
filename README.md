@@ -1,13 +1,14 @@
-<h1>Hello, I'm James! <br/> IT Support <a /a></h1>
+<h1>Hello, I'm James Barrera Welcome to My Portfolio</h1>
 
 <h2>👨‍💻 Projects:</h2>
+<ul>
+  <li><a href="https://github.com/MitoB13/Active-Directory-Home-Lab">Active Directory Home Lab</a></li>
+</ul>
 
-  - [Active Directory Home Lab](https://github.com/MitoB13/Active-Directory-Home-Lab)
-
-
-
-<h2> 🤳 Certifications:</h2>
-- <a href="https://www.credly.com/badges/3cdf76be-5004-4c2d-8acb-3ffbe42dbb87/print">Google Coursera IT Support</a>
+<h2>🤳 Certifications:</h2>
+<ul>
+  <li><a href="https://www.credly.com/badges/3cdf76be-5004-4c2d-8acb-3ffbe42dbb87/print">Google Coursera IT Support</a></li>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 
